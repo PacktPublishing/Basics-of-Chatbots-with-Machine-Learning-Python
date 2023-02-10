@@ -1,0 +1,365 @@
+Human Resource analytics is at the intersection of three bodies of knowledge:
+
+Human Resource Management: sets the meaning and purpose of the analytics. 
+
+Data Warehousing: knowing how to process and store HR data efficiently, automation of  collection of data and cleaning data.
+
+Statistical Analysis, Presentation and Interpretation : helps in translating the identified HR  issues into appropriate analyses and communication of results.
+
+
+
+5 FUNDAMENTAL PRINCIPLES OF ANALYTICS
+
+HR Analytics is about metrics and measurement. Good metrics definitions, both narrative and formulaic, and their documentation are key.
+
+A professional and good HR Analytics person will have the above bodies of knowledge and know their process and intersection.
+
+Good communication and collaborative skills are essential. The in-depth expertise in your organization is likely to exist in HRM. IT. and Decision Support. You will need to collaborate with these groups.
+
+The extent of HR Analytics can be vast. Having a defined model or framework can help you navigate towards your future efforts. Patience is key.
+
+While quality preparation of metrics is important, the real value is in the analysis and interpretation.
+
+Specialists analytics in high demand for HR roles: Study
+
+ET Bureau -May 14, 2018
+
+India has seen 77% growth in specialized analytics professionals employed in human resource functions in the past five years, as an increasing number of companies are turning to analytics to address workforce planning, skills gap and employee retention, according to a study by professional network LinkedIn.
+
+“The overall business landscape and the changing role of Human Resource as a more strategic partner in business are driving the rise of analytics in HR. It is imperative for Human Resource today to give more strategic inputs in business and build a data-driven Human Resource Management function,” said Irfan Abdulla, director-LinkedIn Talent Solutions and Learning Solutions, India and South Asia.
+
+Compensation and benefits, talent acquisition, talent development and productivity are the established focus areas for use of analytics in the Asia-Pacific region.
+
+In India, 14% of total jobs in Human Resource Management are analytics based, signifying that companies are increasingly trying to arm their HR functions with analytical capabilities with talent as their focus area, shows the report, titled The Rise of Analytics in Human Resource Management: An era of Talent Intelligence.
+
+Rights of an employee
+
+
+
+Right against discrimination at workplace
+
+It is a right of every citizen of India to be treated without any discrimination. According to article 16 (2) of the Indian Constitution, no citizen can be discriminated against, or be ineligible for any employment or office under the state, on the grounds only of religion, race, caste, sex, descent, place of birth or residence or any of them. Adherence to the rule of equality in public employment is a being feature of Indian Constitution and the rule of law is its core, the court cannot disable itself from making an order inconsistent with article 14 and 16 of the Indian Constitution.
+
+In the United States, Title II of the Civil Rights act, 1964 prohibits discrimination of people on certain grounds. In this regard, employers implement equal employment opportunity policies and prohibit discrimination based on race of a person, colour, sex, religious creed, nationality, age, ancestry, marital status, disability, medical condition, genetic characteristics ( of those of a family member), political affiliation, et cetera.
+
+
+The equality act, 2010 of the United Kingdom prohibits discrimination and mandates equal treatment in matters of employment as well as private and public services irrespective of race, age, sex, religion or disability .
+
+Scheduled castes and Tribes ( prevention of atrocities) act, 1989 is constituted as a social justice oriented law, which is enacted to prevent atrocities and other form of derogatory behaviour towards member of the scheduled caste and scheduled Tribes.
+
+According to the recent Supreme Court judgment in Section 377 of Indian Penal Code 1860, LGBTQ ( lesbian, gay, bisexual and transgender queer) shall not be shown discrimination or derogate them in any manner.
+
+
+
+Equal pay for equal work
+
+It is an employee right though equal pay for equal work is not expressly declared by the Constitution as a fundamental right that in view of the directive principles of state policy as contained in the article 39(d) of the Indian Constitution "equal pay for equal work" has assumed the status of fundamental right.
+
+According to article 39(d) of the Indian Constitution, the state has to ensure that there is equal pay for equal work for both men and women. Parliament has enacted the Equal Remuneration Act, 1976, to implement article 39(d). The act provides for payment of equal remuneration to men and women workers for the same work, or work of a similar nature and for the prevention of discrimination on grounds of sex. The act also ensures that there will be no discrimination against recruitment of woman and provides for the setting up of a advisory committee to promote employment opportunities for women. It is the duty of HR department and Hr managers to see that there is no such violation which is unconstitutional, therefore it should be complied by the every organization.
+
+
+
+Supreme Court - Case law 
+
+Jaipal Vs State of Haryana, AIR 1988 SC 1504, at 1509:
+
+The court has enunciated the doctrine as follows:
+
+The doctrine of equal work for equal pay would apply on the premises of similar work but it does not mean that there be  complete identity in all respects. If the two classes of persons do some work under the same employer, with similar responsibility, under similar working conditions, the doctrine of equal work equality would apply and it would not be open to the state to discriminate one class with the other in paying salary.
+
+Federation of A.I custom and Central Excise stenographers (Recog) Vs Union of India. AIR 1988 SC 1291: (1988) 3 SCC 91
+
+The Supreme Court has emphasized that equality must depend on the nature of work done and not mere volume of work as they may be quantitative differences as regards reliability and responsibility. Functions may be the same but the responsibilities make a difference. The court further observed:
+
+"The same amount of physical work may entail different quality of work, some more sensitive, some requiring more tact, some less - it varies from nature and culture of employment. The problem about equal pay cannot always be translated into a mathematical formula....."
+
+Working hours
+
+It is an employee right to not to work more than 9 hours in any day or 48 hours in any week in the factory. There should be interval or break for rest for at least 30 minutes after five hours continuous work of an employee according to The Factories Act 1948.  The same right is applicable to the employees working in the shops and establishments like hotels, movie theatres and amusement and entertainment establishments according to the concerned state shops and Establishment act.
+
+Weekly holiday
+
+It is an employee right to have at least one holiday in a week in the factory or shops and establishments according to The Factories Act 1948 and shops and establishments act of the concerned state
+
+Salary or Wage
+
+According to Minimum Wages Act, 1948 it is an employee right to claim for salary or wage for the work done to his employer. It is the duty of the employer to pay remuneration according to the work extracted from his employee.
+
+Any deductions from the salary or wage of an employee should be made according to the employment laws only. If any employee levied fines or collected or deductions from the salary of an employee, it will be treated as illegal and such employer is liable for legal action.
+
+
+Payment for overtime working
+
+According to The Factories Act 1948., section 59, if a worker works more than nine hours in any day or for more than 48 hours in any week, it is an employee right to claim payment for overtime at the rate of double the ordinary rate of his wage or salary.
+
+Payment of gratuity
+
+The employee on termination of his employment from the specified establishment becomes entitled for payment of gratuity from his employer provided he has rendered continuous service of not less than five years. The gratuity is payable on superannuation or retirement as well as on resignation of the employee. It is also payable on death or disablement of the employee due to accident or disease.
+
+It is an employee right who completes his five years of continuous service in an organisation having 10 or more employees, to claim for payment of gratuity at the rate of 15 days of his current salary for every year of service he or she completed in that organisation, according to The Payment of Gratuity Act, 1972.
+
+Section 2(e) of the Gratuity Act defines the term 'employee' and any person who is employed for wages other than an apprentice is covered by the said definition provided the establishment in which such person is working is covered by the provisions of the said Act.
+
+Payment of bonus
+
+According to the section-10 of Payment of Bonus Act, 1965, it is an employee right drawing salary of Rs. 21000/- p.m. to claim for payment of minimum bonus that is 8.33% of his salary (his / her salary will be treated as maximum Rs. 7000/- for calculation of bonus) and it is the duty of the employer to pay minimum bonus to their employees irrespective of profit or loss to an organisation during that year. Section-11 says maximum percentage of bonus claimable by an employee is 20% in case of profits to an organisation. The procedure for payment of bonus to to employees irrespective of profits or losses to an organisation is mentioned under the Payment of Bonus Act, 1965.
+
+Provident fund
+
+It is an employee right that whoever employee draws salary not more than ₹ 15,000, have social security benefit in the form of provident fund. It is the duty of the employee to contribute 12% from his salary towards provident fund and it is it is the duty of employer or an organisation having 20 or more employees, to contribute equally that is 12% of his salary, according to the Employees' Provident fund and miscellaneous provisions act 1952.
+
+According to the present rules, if an employer becomes unemployed for one month, such employee can with the 70% of amount from the provident fund. If an employer becomes unemployed for more than two months such employee can with the total amount from the provident fund.
+
+Maternity leave
+
+According to the section 5 of the Maternity benefit Act 1961, it is woman employee right to claim for maternity leave for 26 weeks for 2. Such woman employee can apply maternity leave just eight weeks before the date of are expected delivery. It is the duty of employer to pay full salary for a woman employee during her maternity leave for 26 weeks. In case of miscarriage or medical termination of pregnancy, a woman is entitled to live with wage or salary for a period of six weeks immediately following that they offer miscarriage or her medical termination of pregnancy .
+
+Paternity leave
+
+It is male employee right if he is working for the central government of India, he is having right as employee to claim for paternity leave for 15 days within six months from the date of delivery of his child. The central is also being followed in many reputed private organisations and companies in order to boost employee morale and employee satisfaction.
+
+Compensation in case of accidents, injuries and death of an employee
+
+According to the Employee's Compensation act 1923 it is an employee right to claim compensation in case of accidents or injuries occurred during the course of employment especially when worker was not under the influence of alcohol. In case of death of an employee in the course of employment and such employee is not under the influence of alcohol, his or her dependent is having right to claim compensation in accordance with the workers compensation act 1923.
+
+Workers participation in the management
+
+The article 43a of the Constitution of India, guarantees participation of workers in management of industries.
+
+Protection against sexual harassment at workplace
+
+It is an employee right to be protected against sexual harassment at workplace according to the sexual harassment of women at workplace (prevention, Prohibition and redressal) act 2013. For this purpose the organisation with 10 or more employees should constitute internal complaints committee for helping the victims of sexual harassment. Such victims are also protected under the section 354 of the Indian penal code, by punishing culprit with imprisonment.
+
+An incident of sexual harassment of a female at a place of work, amounts to violation of her fundamental right to gender equality under the article 16(2) of the Indian Constitution. Such violation of fundamental rights can be filed before High Court of the concern state under article 226 of Constitution of India for seeking justice and for punishing such violators.
+
+Note: Any person who is deprived of his rights which are mentioned above, such illegality can be challenged before the court of law and employee whoever commits violation of such rights shall be punishable according to law by the court of law.
+
+
+
+
+Prevention and dealing with sexual harassment: is a crucial duty of Human Resource Management, otherwise it may effect the organisation's culture and employer branding which would consequently lead to collapse of the organization. Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013 protects women at the workplace from sexual harassment. Act defines sexual harassment at the work place and creates a mechanism for redressal of complaints. It also provides safeguards against false or malicious charges. Every employer is required to constitute an Internal Complaints Committee at each office or branch with 10 or more employees. Any employer who fails to constitute an Internal Complaints Committee as per the Sexual Harassment Act shall be liable for a penalty of up to Rs. 50,000 if a complaint is made to the magistrate.
+
+Any woman employee who has faced sexual harassment at the workplace, or any person authorized by the Internal or Local Complaints Committee can file a complaint with the Magistrate. Repeated non-compliance of this provision can result in the punishment being doubled or even cancellation of the organisation's business license by the concern government or local authority.
+
+The Indian Penal Code 1860 Section 354A, 354B,354C, 354D was newly inserted, especially for the following acts which shall be treated as sexual harassment.
+
+Physical contact and advances involving unwelcome and explicit sexual overtures; or
+
+demand request for sexual favours; or
+
+showing pornography again as the will of a woman; or
+
+making sexually coloured remarks on women.
+
+any man who assaults or uses criminal force to any women or abets such act with the intention of disrobing (taking off one’s clothes) are compelling her to be naked -section 354B'
+
+Any man who watches captures images of women engaging in a private act in circumstances where she would usually have the exception are not being observed either by the perpetrator or by any other person. - section 354C
+
+Following a woman and contacts, or attempts to contact such women repeatedly despite a clear indication of disinterest by such women.- section 354D
+
+Punishment
+
+For the above said offences the punishment shall be for a period of one to three years of imprisonment or fine, or both
+
+Function of Human Resource Management
+
+
+5 basic (Managerial) function of Human Resource Management
+
+
+
+1. Planning - HR
+
+Planning is the first and basic function of the management and everything depends upon planning as it is a process of thinking about things before they happen and to make preparations in-advance to deal with them. Poor planning results in failure and effects overall system. Therefore HR Mangers should be aware of when is right time to do things, when things should be done and when things should not be done in order to achieve goals and objectives of the organization.
+
+Establishing goals and objectives to be achieved through the employees so as to achieve the organizational mission set by the top-level management.
+
+Developing rules and procedures which has to be followed by the employees in order to avoid any sort of discrimination among the employees in any of their functions, to enable fair and transparent treatment among employees, to avoid conflict starting from recruitment to the separation of employees, inculcate discipline among the employees, to drive performance of employees and ultimately to avoid conflict and contravenes with statutes and employment laws of the land, ultimately for smooth running of the organization.
+
+Determining plans and forecasting techniques as a part of Human resource planning to avoid any shortfall of workforce so as to avoid impact on the output of the organisation, to draw the estimation of workforce exactly needed for the organisation and to plan for attracting talented candidates.
+
+HR outsourcing: as that of make or buy decision in operations management, human resource manager should be able to make decisions with regard to HR activities which are to be executed by the management itself or to be outsourced when there is advantage of expertise to bring in and cost-saving for organization. The following are the most outsourced HR activities; legal advice and support, employee payroll, pensions, training and development, recruitment, employee assistance, compensation and benefits, outplacement is, human resource information systems, employee relations, policy-making, strategic partnerships, appraisal of employees and resource planning.
+
+Most small to medium-sized business owners know the frustration of spending more time than they want on non-revenue generating activities from payroll to human resource management to benefits and compensation. The answer for many businesses maybe to outsource part of their HR functions to third party providers so that they can focus on their core business and also has following benefits-
+
+Save money and reduce operating costs
+
+Allow the company to focus on its core business
+
+Reduce the number of HR staff and related staff expenses
+
+Allow HR staff to focus more on strategy
+
+Avoid the costs of major investment in technology
+
+Improve metrics/measurement
+
+
+
+2. Organising- HR
+
+HR managers should be well aware of organizing everything related to human resource and organisation as organizing is the process of making and arranging everything in the proper manner in order to avoid any confusion and conflicts.
+
+Giving each member a specific tasks to finish overall objectives of the job given to an employee is the duty of the Human Resource Manager, besides it also to the duty of Human resource manager to define task clearly before entrusting job to an employee. HR managers should keep in mind that task entrusted to employees should be matched with their skill set and abilities and It is also lookout of HR managers to give training to employees in the area or subject which is going to be entrusted to employees, otherwise the task entrusted to employees gets failed and defeated.
+
+Establishing departments and divisions according to the nature of jobs and works in order to improve the efficiency, expertise and speedup the work. Establishment of separate divisions and departments would give easy and effective control over employees by the management which would give better results and improve overall performance of the organisation.
+
+Delegating authority to the members for a good cause and to make employees more responsible towards their job and organisation is a part of employee development. Delegating authority to employees makes them to be more responsible towards organisation as there is a principle called authority equals to responsibility, vice versa when you load an employee with responsibilities, he should be given authority so as to fulfil the responsibilities casted upon employee. Authority without responsibility and responsibility without authority defeats its purpose. Therefore when employees feels responsible and accepts responsibilities, it is a good sign as it makes employees to be engaged in the job.
+
+Establishing channels of authority and communication is the primary responsibility of any human resource manager which would enable managers to effectively communicate desired goals and objectives of the organisation. Having effective communication will avoid conflicts, make staff to understand what exactly they are expected to and also enable the manager to get the things done in time.
+
+Creating a system to coordinate the works of the members so as to make the employees to work properly and not to cause any conflict in the allocation of the work to the employees. Improper and discriminating allotment of the work we will make one or the other employee feel overburden, burnout and can create conflicts among employees among members which is not good for the organisational health and building teams will create teamwork which creates synergy among team that will bring out the best out of them.
+
+
+
+3. Staffing - HR
+
+Staffing is one of the key functions of human resource management as staffing is the process of employing right people, providing suitable training and placing them in the right job by paying them accordingly and satisfactorily.
+
+Determining the type of people to be hired should be emphasised as they are the fundamental resource and investment for any organisation. Every organisation wants right people with them but they come at a price. Employee compensation is a key factor in primary motivating factor to attract talented and retain them in the organisation for a long period of time.
+
+Compensating the employees is one of the core functions of the human resource management. Among all the motivating factors money is very important and primary motivating factor for any employee. Providing right compensation for the work done by an employee will not only make an employee feel happy, it will also make the organisation in compliance with employment laws of the land, if compensation is unjustified it amounts to exploitation of employees which is against law.
+
+Setting performance standards, measuring and evaluating the employees: A performance appraisal is meant to help employees realise their strengths and shortcomings and receive a compensation accordingly. The very purpose of appraising the performance of employees is to evaluate and compensate accordingly. Unless organisation sets performance standards to its employees, it cannot compare and measure employees actual performance with the standard performance. HR managers take performance gaps of employees for making decisions on employees with regard to rewarding them with bonus, profit-sharing, stock options and payment of incentives or not. These employee performance gaps will not only be considered for making decisions with regard to compensation but it is also considered for making decisions with regard to initiate corrective actions on said employees, promoting them to higher levels and if any employees performance gaps are high, such employees gets demoted, suspended or sometimes may be discharged from job.
+
+Counselling the employees as a Human Resource manager, for understanding and helping people who have technical, personal and emotional or adjustment problems with an objective to reduce them, so that performance of employees are maintained at expected level or even improved upon.
+
+Recruiting prospective employees and selecting the best ones from them is one of the primary functions of human resource management. Recruiting is the process of inviting the people who were willing to join the organisation and selecting best out of them is the crucial process in which various selection tests are conducted. Having best people in the organisation will make that organisation is best in all the ways which would create employer brand that will help to attract talented people and also make them to retain in the organisation long period of time.
+
+HR Metrics: Application of formulas for measuring and calculating core HR issues so as to draw exact HR results and current scenario of organisation. The very purpose of HR metrics is to indicate current position and performance of the organisation.
+
+Core HR issues where HR metrics can be applied are Time to fill an employee, Cost per hire of an employee, Employee absenteeism rate, Employee training others, Turnover cost, Turnover rate, annual Turnover of an employee, Workers compensation cost for an employee, Revenue per employee, Return on Investment (ROI) and Yield ratio.
+
+Annual employee turnover rate = No of employees left X 100
+
+beginning + ending No of employee in a year / 2
+
+Absence Rate
+
+[(Number of days absent in month) ÷ (Average number of employees during mo.) × (number of workdays)] × 100
+
+Cost per Hire
+
+(Advertising + Agency Fees + Employee Referrals + Travel cost of applicants and staff + Relocation costs + Recruiter pay and benefits) ÷ Number of Hires
+
+Health Care Costs per Employee
+
+Total cost of health care ÷ Total Employees
+
+HR Expense Factor
+
+HR expense ÷ Total operating expense
+
+Human Capital ROI
+
+Revenue − (Operating Expense − [Compensation cost + Benefit cost]) ÷ (Compensation cost + Benefit cost)
+
+Human Capital Value Added
+
+Revenue − (Operating Expense − ([Compensation cost + Benefit Cost]) ÷ Total Number of FTE
+
+Revenue Factor
+
+Revenue ÷ Total Number of FTE
+
+Time to fill
+
+Total days elapsed to fill requisitions ÷ Number hired
+
+Training Investment Factor
+
+Total training cost ÷ Headcount
+
+Turnover Costs
+
+Cost to terminate + Cost per hire + Vacancy Cost + Learning curve loss
+
+Turnover Rate
+
+[Number of separations during month ÷ Average number of employees during month] × 100
+
+Workers’ Compensation Cost per Employee
+
+Total WC cost for Year ÷ Average number of employees
+
+
+
+4. Directing - HR
+
+Directing is a knowledge, discipline and formal way of communicating to others that what you are expecting from them to do for you or to an organization. Unless a HR manager has capability of directing, he / she can't be said as full-fledged HR manager. when a HR manager has right directing capabilities, it is gives clarity for employees what they are expected to perform, removes confusion in employees and gives clarity of what results are expected by the management from employees.
+
+Getting work done through subordinates so as to meet the organisation's goals and objectives. Indeed getting work done to others is an art which every Human resource manager should possess, for which employee motivation by the Human Resource Management influences and matters a lot.
+
+Ensuring effective two-way communication for the exchange of information with the subordinates in order to effectively communicate the goals and objectives of the organisation as it plays key role in understanding what the Human Resource manager or organisation is expecting from employees to perform. Miscommunication between employees block the progress and even would lead to conflicts which eventually affects the overall performance of the organisation.
+
+Motivating subordinates to strive for better performance by way of providing employee recognition, rewards, intrinsic benefits, paid vacations, increments in salary, gifts, any social security benefits to employees and their family members is one of the functions of Human Resource Management.
+
+Maintaining the group morale by way of fair treatment among employees, being ethical and generous towards employees, management being loyal to its employees and giving priority to employee concerns. It is the responsibility of human Resource Manager to guide always to its employees, otherwise lack of guidance often kills the morale of employees. Training and development programmes not only improve the skills of employees but also boost their morale, thereby making them happy and leading to longer tenures. Apart from breaking the monotony in the workplace, training programmes offer employees a learning platform where they are able to master new skills and become more marketable.
+
+
+
+5. Controlling - HR
+
+HR managers should have the knowledge of controlling all HR related matters, as they should be able to think and decide what should be done and what should not be done and which should be done and which should not be done while dealing with employees.
+
+Operative function of Human Resource Management
+
+1. Procurement - HR
+
+Job analysis is a systematic process of gathering all the data & information pertaining to the job for preparing of job specification which determine the skills, qualifications & traits for job and preparation of job description which describes the duties and responsibilities so as to recruitment and selection of employee, give satisfaction on the job, and feel motivation while doing the job, etc. Harry L. Wylie defines "Job analysis deals with the anatomy of the job.....This is the complete study of the job embodying every known and determinable factor, including the duties and responsibilities involved in its performance; the conditions under which performance is carried on; the nature of the task; the qualifications required in the worker; and the conditions of employment such as pay, hours, opportunities and privileges"
+
+
+
+Job design   is the process of deciding on the content of a job in terms of its duties and responsibilities; on the methods to be used in carrying out the job, in terms of techniques, systems and procedures and on the relationships that should exist between the job holder and the superiors, subordinates and colleagues. Job enlargement, job enrichment, job rotation, and job simplification are the various techniques used in a job design exercise.  Job design goal is to minimize physical strain on the worker by structuring physical work environment around the way the human body works.
+
+
+Recruitment & selection - Recruitment and selection of the human resources for an organisation is the major and basic function of human resource management. Human resources planning and recruiting precede the actual selection of people for positions in an organisation. Recruiting is the process of inviting qualified job seekers by using different platforms like issuing notification in regular newspapers or employment newspapers which are exclusively meant for employment news and notifications, television media, online and on social networking websites which have become mostly used resources for recruitment and hiring people. There are two major source of recruitment of employees, one is recruitment through internal sources and the other is recruitment through external sources. Internal recruitment is the process of inviting or giving chance to the people relating to concern organisation or to the people relating to the existing employees or directly giving opportunity to the existing employees. External recruitment is the process of inviting job seekers who do not belong to or anyway related with an organisation, which simply means inviting outside candidates.
+
+Subsequently, selection of right person form the pool of candidates by administering various selection tests like preliminarily screening, written tests, oral tests and interviews etc.
+
+
+Human resource planning (HRP) may be defined as strategy for acquisition, utilization, improvement and preservation of the human resources of an enterprise. The objective is to place right personnel for the right work and optimum utilization of the existing human resources. HRP exists as a part of the planning process of business.
+
+The major activities of Human resource planning include:
+
+Placement of employee in the job where he exactly fit
+
+forecasting (future requirements),
+
+inventorying (present strength),
+
+anticipating (comparison of present and future requirements) and
+
+planning (necessary programme to meet future requirements).
+
+Induction & Orientation: Induction of Employee is the first step towards gaining an employees' commitment, Induction is aimed at introducing the job and organization to the recruit and him or her to the organization. In a nutshell, it covers the organization’s history, philosophy, mission and vision, and the managerial style of the organization. Inform the financial benefits and different taxation policies offered. Addresses trainings offered, performance expectations, and the work schedules of the organization. Educate new employees on the laws, regulations and company policies that applies to their role. Highlight the different safety and security aspects related to the work environment.
+
+Orientation is the planned introduction of new employees to their jobs, co-workers, and the organization so as to alien an employee with their job role.
+
+Explain the role employees have to play to achieve organization's goals.
+
+Portray the organization structure demonstrating the various departments, the people involved and their respective designation. It covers all the information starting from customer profile, to the competitors’ product and services.
+
+Socialization is a process of making employees to mingle up with everyone for team-spirit
+
+
+
+2. Development- HR
+
+Career planning and Career development; process of establishing personal career objectives by employees and acting in a manner intended to bring them about. HR managers should help their employees in knowing their strengths for placing them in suitable job, guide employees what skills and knowledge should be acquired for attaining higher positions, planning for suitable training for polishing existing skill set and providing good work-life-balance to make balance between career and personal life, after all, every one work for their personal life .
+
+Career development according to Schuler, "It is an activity to identify the individual needs, abilities and goals and the organization’s job demands and job rewards and then through well designed programmes of career development matching abilities with demands and rewards". Career development does not guarantee success but without it employees would not be ready for a job when the opportunity arises. HR managers should encourage their employees by providing them suitable opportunities to grow for promoting them to higher jobs according to their skills and knowledge, identify and provide opportunities to employees to learn new skills in the job and compensate accordingly and guiding employees in right career path to develop in their career.
+
+Top preferences for employees in India
+
+* Career development
+
+* Learning and training opportunities
+
+* Good work-life balance
+
+* Good relationship with superiors
+
+Executive development ; developing the skills and competencies of those that (will) have executive positions in organisations.
+
+Employee training and development is the subsystem of an organization and core function of human res
